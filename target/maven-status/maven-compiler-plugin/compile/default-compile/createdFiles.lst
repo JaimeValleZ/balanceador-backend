@@ -1,0 +1,6 @@
+com\cun\balanceador\controladores\ProductoController.class
+com\cun\balanceador\BalanceadorApplication.class
+com\cun\balanceador\config\WebConfig.class
+com\cun\balanceador\config\WebConfig$1.class
+com\cun\balanceador\service\ProductoService.class
+com\cun\balanceador\modelo\Producto.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cun.balanceador.BalanceadorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.776 s -- in com.cun.balanceador.BalanceadorApplicationTests
