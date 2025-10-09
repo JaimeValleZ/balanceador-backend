@@ -6,22 +6,19 @@ Se requiere un sistema capaz de balancear peticiones y gestionar el cargado de d
 Especificación de Requerimientos
 Requerimientos Funcionales
 
-Visualizar un catálogo de productos generado dinámicamente desde el backend.
+  Visualizar un catálogo de productos generado dinámicamente desde el backend.
+  
+  Balancear y gestionar múltiples peticiones concurrentes al backend.
+  
+  Proveer una API REST para la comunicación entre frontend y backend.
 
-Permitir la adición manual de productos mediante un formulario web.
-
-Balancear y gestionar múltiples peticiones concurrentes al backend.
-
-Proveer una API REST para la comunicación entre frontend y backend.
 Requerimientos No Funcionales
 
-Interfaz web responsiva y amigable, basada en Bootstrap.
-
-Backend escalable, preparado para grandes volúmenes de datos.
-
-Seguridad básica en la comunicación, con CORS habilitado.
-
-Documentación clara y facilidad de despliegue.
+  Interfaz web responsiva y amigable, basada en Bootstrap.
+  
+  Backend escalable, preparado para grandes volúmenes de datos.
+  
+  Seguridad básica en la comunicación.
 
 Informe General del Sistema
 
@@ -44,12 +41,10 @@ Al iniciar, el backend generará automáticamente las tablas necesarias en la ba
 Manual de Usuario
 Inicio
 
-Para iniciar, se debe acceder al frontend en la dirección http://localhost:4200
-. Desde allí, hacer clic en el botón “Visualizar” para ver el catálogo de productos.
+Para iniciar, se debe acceder al frontend en la dirección Propuesta.
+Desde allí, hacer clic en el botón “Visualizar” para ver el catálogo de productos.
 
- Agregar Producto
-
-Para agregar un producto, se debe navegar a la opción de “Agregar Producto”, completar el formulario con los datos requeridos y presionar el botón “Agregar”. El nuevo producto aparecerá en la lista principal.
+ 
 
 Requisitos
 
